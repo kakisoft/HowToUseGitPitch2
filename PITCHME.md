@@ -22,12 +22,20 @@ PITCHME.yaml
 ここのテーマは  
 　  
 **theme :night**  
-　  
-と指定しています。
----
-theme : sky
+## theme :night
 
+と指定しています。  
+他には・・・
 ---
+## theme : black
+---
+## theme : moon
+---
+## theme : beige
+---
+## theme : sky
+---
+等があります。
 
 
 
