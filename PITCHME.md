@@ -5,10 +5,20 @@
 　  
 　　　　垣花　暁
 ---
+このスライドの作成に、  
 「GitPitch」というサービスを使っています。
 ---
 最初にこんなの作りました。
 https://gitpitch.com/kakisoft/HowToUseGitPitch/master
 ---
-色々と設定も用意されています。
+今回は各種設定で遊んでみた話です。
 ---
+PITCHME.yaml
+というファイルを作成します。
+<img src="img/01.png">
+---
+まずはテーマ。
+---
+
+
+
