@@ -39,7 +39,8 @@ PITCHME.yaml
 ---
 左下のメニューより、  
 一時的にテーマを変更する事も出来ます。  
-<img src="img/06.png">
+<img src="img/06.png">  
+※テーマ未設定時のみ有効
 ---
 次に、背景。
 ---
@@ -57,7 +58,15 @@ PITCHME.yaml
 次に、スライド番号
 ---
 ### slide-number: true
-で、番号をつける事ができます。
+で、番号をつける事ができます。  
+（右下の番号です）
+---
+次に、フッター
+---
+### footnote : "©kakisoft 2017"
+で、フッターが設定できます。
+---
+
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 
