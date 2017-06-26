@@ -13,11 +13,12 @@ https://gitpitch.com/kakisoft/HowToUseGitPitch/master
 ---
 今回は各種設定で遊んでみた話です。
 ---
-PITCHME.yaml
-というファイルを作成します。
+PITCHME.yaml  
+というファイルを作成し、記述します。
 <img src="img/01.png">
 ---
 まずはテーマ。
+theme : sky
 ---
 
 
