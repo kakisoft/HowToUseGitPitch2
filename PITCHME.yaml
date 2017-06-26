@@ -7,3 +7,6 @@ theme : night
 
 #Logo Setting
 logo : assets/logo.png
+
+#slide-number
+slide-number: true
