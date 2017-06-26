@@ -35,6 +35,8 @@ PITCHME.yaml
 <img src="img/05.png">
 ---
 等が設定可能です。
-
+---
+メニューから、一時的にテーマを変える事も出来ます。
+<img src="img/06.png">
 
 
