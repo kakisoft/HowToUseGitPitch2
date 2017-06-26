@@ -21,7 +21,6 @@ PITCHME.yaml
 ---
 ここのテーマは  
 　  
-**theme :night**  
 ## theme :night
 
 と指定しています。  
