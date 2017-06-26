@@ -36,7 +36,14 @@ PITCHME.yaml
 ---
 等が設定可能です。
 ---
-メニューから、一時的にテーマを変える事も出来ます。
+一時的にテーマを変更する事も出来ます。  
 <img src="img/06.png">
-
+---
+次に、背景。
+---
+## background : assets/bg.jpg
+で、背景画像が設定できます。
+---
+詳細は、公式サイトを参照して下さい。
+https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 
