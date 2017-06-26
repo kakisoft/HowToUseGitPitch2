@@ -14,14 +14,14 @@ https://gitpitch.com/kakisoft/HowToUseGitPitch/master
 今回は、各種設定の話です。
 ---
 PITCHME.yaml  
-というファイルを作成し、記述します。
+というファイルを作成し、設定を記述します。
 <img src="img/01.png">
 ---
 まずはテーマ。
 ---
 ここのテーマは  
 　  
-## theme :night
+### theme :night
 
 と指定しています。  
 　  
@@ -50,9 +50,14 @@ PITCHME.yaml
 ---
 次に、ロゴ。
 ---
-## logo : assets/logo.png
-等で、ロゴを表示できます。
+### logo : assets/logo.png
+等で、ロゴを表示できます。  
+（左の画像です）
 ---
+次に、スライド番号
+---
+### slide-number: true
+で、番号をつける事ができます。
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 
