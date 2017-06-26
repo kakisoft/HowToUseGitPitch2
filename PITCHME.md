@@ -19,8 +19,10 @@ PITCHME.yaml
 ---
 まずはテーマ。
 ---
-ここのテーマは  
-theme :night  
+ここのテーマは  
+　  
+**theme :night**  
+　  
 と指定しています。
 ---
 theme : sky
