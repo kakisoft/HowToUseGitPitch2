@@ -11,7 +11,7 @@
 最初にこんなの作りました。
 https://gitpitch.com/kakisoft/HowToUseGitPitch/master
 ---
-今回は、各種設定で遊んでみた話です。
+今回は、各種設定の話です。
 ---
 PITCHME.yaml  
 というファイルを作成し、記述します。
