@@ -41,7 +41,7 @@ PITCHME.yaml
 ---
 次に、背景。
 ---
-## background : assets/bg.jpg
+### background : assets/bg.jpg
 で、背景画像が設定できます。
 ---
 詳細は、公式サイトを参照して下さい。
