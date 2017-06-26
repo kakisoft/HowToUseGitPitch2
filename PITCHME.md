@@ -42,8 +42,15 @@ PITCHME.yaml
 ---
 次に、背景。
 ---
-### background : assets/bg.jpg
-等で、背景画像が設定できます。
+<img src="img/07.png">
+---
+テーマとの併用は難しそうなので、  
+どちらかを選べばいいと思います。
+---
+次に、ロゴ。
+---
+## logo : assets/logo.png
+等で、ロゴを表示できます。
 ---
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
