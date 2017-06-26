@@ -27,15 +27,15 @@ PITCHME.yaml
 と指定しています。  
 他には・・・
 ---
-## theme : black
+<img src="img/02.png">
 ---
-## theme : moon
+<img src="img/03.png">
 ---
-## theme : beige
+<img src="img/04.png">
 ---
-## theme : sky
+<img src="img/05.png">
 ---
-等があります。
+等が設定可能です。
 
 
 
