@@ -26,6 +26,7 @@ PITCHME.yaml
 と指定しています。
 ---
 theme : sky
+
 ---
 
 
