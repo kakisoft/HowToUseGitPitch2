@@ -1,1 +1,9 @@
 
+#Theme Setting
+theme : night
+
+#Background Setting
+background : assets/bg.jpg
+
+#Logo Setting
+logo : assets/logo.png
