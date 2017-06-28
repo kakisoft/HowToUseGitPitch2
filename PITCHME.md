@@ -94,4 +94,4 @@ fade, none, slide, zoom
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 ---
-おわり
+おわり 
