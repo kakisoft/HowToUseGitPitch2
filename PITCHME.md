@@ -29,15 +29,9 @@ PITCHME.yaml
 　  
 他には ・・・
 ---?image=img/02.png
----
-<img src="img/02.png">
----
-<img src="img/03.png">
----
-<img src="img/04.png">
----
-<img src="img/05.png">
----
+---?image=img/03.png
+---?image=img/04.png
+---?image=img/05.png
 等のテーマがあります。
 ---
 左下のメニューより、  
@@ -46,9 +40,7 @@ PITCHME.yaml
 ※テーマ未設定時のみ有効
 ---
 背景。
----
-<img src="img/07.png">
----
+---?image=img/07.png
 テーマとの併用は難しそうなので、  
 どちらかを選べばいいと思います。
 ---
