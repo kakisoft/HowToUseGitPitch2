@@ -79,9 +79,9 @@ fade, none, slide, zoom
 と設定することで、  
 5秒おきにスライドが自動で流れます。
 ---
-　  
-\<!-- .slide: data-autoslide="1000" -->
-　  
+```　  
+<!-- .slide: data-autoslide="1000" -->
+```　  
 と記述すれば、スライド単位での  
 遷移時間が設定可能です。  
 （これは PITCHME.md に記述します。）
