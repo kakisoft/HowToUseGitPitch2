@@ -28,6 +28,7 @@ PITCHME.yaml
 と指定しています。  
 　  
 他には ・・・
+---?image=img/02.png
 ---
 <img src="img/02.png">
 ---
