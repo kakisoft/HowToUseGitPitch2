@@ -18,8 +18,6 @@ footnote :  "© 2017 kakisoft"
 #highlight : monokai
 highlight : mono-blue
 
-mathjax : TeX-MML-AM_HTMLorMML-full
-
 #Mouse Wheel Setting
 mousewheel : true
 
