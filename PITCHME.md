@@ -29,7 +29,7 @@ PITCHME.yaml
 　  
 他には ・・・
 ---?image=assets/ThemeBLACK.png
----?image=assets/ThemeBLACK.png
+---?image=assets/ThemeMOON.png
 ---?image=assets/ThemeBEIGE.png
 ---?image=assets/ThemeSKY.png
 ---
@@ -51,7 +51,7 @@ PITCHME.yaml
 ### transition : fade
 等で、遷移時のアクションを設定できます。  
 convex, concave, default,  
-fade, none, slide, zoom
+fade, none, slide, zoom  
 が設定できるようです。
 ---
 ロゴ。
@@ -74,7 +74,7 @@ fade, none, slide, zoom
 ---
 また、
 ### autoslide : 5000  
-と設定することで、
+と設定することで、  
 5秒おきにスライドが自動で流れます。
 ---
 ```
