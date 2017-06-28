@@ -5,13 +5,13 @@
 #background : assets/bg.png
 
 #Logo Setting
-logo : assets/logo.png
+#logo : assets/logo.png
 
 #Slide Number Setting
-slide-number: true
+#slide-number: true
 
 #Footnote Setting
-footnote :  "© 2017 kakisoft"
+#footnote :  "© 2017 kakisoft"
 
 #Highlight Setting
 #highlight : monokai
