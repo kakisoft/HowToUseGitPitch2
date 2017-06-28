@@ -6,6 +6,7 @@
 　  
 　　　　垣花　暁
 ---
+<!-- .slide: data-autoslide="1000" -->
 このスライドの作成に、  
 「GitPitch」というサービスを使っています。
 ---
@@ -91,6 +92,10 @@ highlight : mono-blue
 と設定した場合です。
 ```
 ---
+また、
+## autoslide : 5000  
+と設定することで、
+5秒おきにスライドが自動で流れます。
 
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
