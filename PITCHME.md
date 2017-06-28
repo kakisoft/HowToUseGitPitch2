@@ -17,7 +17,7 @@ https://gitpitch.com/kakisoft/HowToUseGitPitch/master
 ---
 PITCHME.yaml  
 というファイルを作成し、設定を記述します。
-<img src="img/01.png">
+<img src="assets/AddPitchmeYaml.png">
 ---
 まずはテーマ。
 ---
@@ -28,20 +28,20 @@ PITCHME.yaml
 と指定しています。  
 　  
 他には ・・・
----?image=img/02.png
----?image=img/03.png
----?image=img/04.png
----?image=img/05.png
+---?image=assets/ThemeBLACK.png
+---?image=assets/ThemeBLACK.png
+---?image=assets/ThemeBEIGE.png
+---?image=assets/ThemeSKY.png
 ---
 等のテーマがあります。
 ---
 左下のメニューより、  
 一時的にテーマを変更する事も出来ます。  
-<img src="img/06.png">  
+<img src="assets/ThemeChange.png">  
 ※テーマ未設定時のみ有効
 ---
 背景。
----?image=img/07.png
+---?image=assets/Background.png
 ---
 テーマとの併用は難しそうなので、  
 どちらかを選べばいいと思います。
