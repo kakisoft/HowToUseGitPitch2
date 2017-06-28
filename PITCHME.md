@@ -8,7 +8,7 @@
 このスライドの作成に、  
 「GitPitch」というサービスを使っています。
 ---
-最初にこんなの作りました。
+最初にこんなの作りました。  
 https://gitpitch.com/kakisoft/HowToUseGitPitch/master
 ---
 今回は、各種設定の話です。
