@@ -67,6 +67,14 @@ PITCHME.yaml
 等で、フットノートが設定できます。  
 （左下の内容です）
 ---
+```
+aaa
+```
+a
+```
+bbb
+```
+---
 
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
