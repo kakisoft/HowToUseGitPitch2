@@ -42,6 +42,7 @@ PITCHME.yaml
 ---
 背景。
 ---?image=assets/Background.png
+kore
 ---
 テーマとの併用は難しそうなので、  
 どちらかを選べばいいと思います。
