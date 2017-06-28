@@ -81,7 +81,8 @@ fade, none, slide, zoom
 ---
 ```　  
 <!-- .slide: data-autoslide="1000" -->
-```　  
+```　  
+　  
 と記述すれば、スライド単位での  
 遷移時間が設定可能です。  
 （これは PITCHME.md に記述します。）
