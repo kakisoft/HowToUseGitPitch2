@@ -24,6 +24,6 @@ mathjax : TeX-MML-AM_HTMLorMML-full
 mousewheel : true
 
 #Transition Setting(convex, concave, default, fade, none, slide, zoom)
-transition : fade
+transition : convex
 
 
