@@ -52,12 +52,6 @@ PITCHME.yaml
 ---
 次に、画面遷移時のアクション
 ---
-### transition : fade
-等で、遷移時のアクションを設定できます。  
-convex, concave, default, 
-fade, none, slide, zoom
-が設定できるようです。
----
 次に、ロゴ。
 ---
 ### logo : assets/logo.png
