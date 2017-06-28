@@ -19,6 +19,16 @@ PITCHME.yaml
 というファイルを作成し、設定を記述します。
 <img src="assets/AddPitchmeYaml.png">
 ---
+### theme :black
+---
+### theme :moon
+---
+### theme :beige
+---
+### theme :sky
+---
+### theme :white
+---
 まずはテーマ。
 ---
 ここのテーマは  
