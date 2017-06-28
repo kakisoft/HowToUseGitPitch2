@@ -24,4 +24,4 @@ mousewheel : true
 #Transition Setting(convex, concave, default, fade, none, slide, zoom)
 transition : fade
 
-
+vertical-center : false
