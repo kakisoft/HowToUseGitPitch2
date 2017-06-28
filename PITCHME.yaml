@@ -14,5 +14,8 @@ slide-number: true
 #footer
 footnote :  "© 2017 kakisoft"
 
-highlight : monokai
-#highlight : mono-blue
+#Highlight Setting
+#highlight : monokai
+highlight : mono-blue
+
+mathjax : TeX-MML-AM_HTMLorMML-full
