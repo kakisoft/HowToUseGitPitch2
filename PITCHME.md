@@ -41,9 +41,9 @@ PITCHME.yaml
 ※テーマ未設定時のみ有効
 ---
 背景。
----?image=assets/Background.png
-koreあああああああああああああああああああああああああああああああああああああああああ
-ああああ
+---?image=assets/bg.png
+### background : assets/bg.png
+等で、背景画像が設定できます。
 ---
 テーマとの併用は難しそうなので、  
 どちらかを選べばいいと思います。
