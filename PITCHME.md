@@ -19,19 +19,6 @@ PITCHME.yaml
 というファイルを作成し、設定を記述します。
 <img src="assets/AddPitchmeYaml.png">
 ---
-### background : assets/bg.png
-等で、背景画像が設定できます。
----
-### theme :black
----
-### theme :moon
----
-### theme :beige
----
-### theme :sky
----
-### theme :white
----
 まずはテーマ。
 ---
 ここのテーマは  
@@ -84,21 +71,6 @@ fade, none, slide, zoom
 ### footnote : "© 2017 kakisoft"
 等で、フットノートが設定できます。  
 （左下の内容です）
----
-コードハイライト
----
-
-```
-ここは
-highlight : monokai
-と設定した場合です。
-```
-a
-```
-ここは
-highlight : mono-blue
-と設定した場合です。
-```
 ---
 また、
 ### autoslide : 5000  
