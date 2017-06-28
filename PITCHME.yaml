@@ -1,6 +1,4 @@
-autoslide : 1000
-
-#Theme Setting
+#Theme Setting(black, moon, night, beige, sky, white が設定可)
 theme : night
 
 #Background Setting
@@ -9,10 +7,10 @@ theme : night
 #Logo Setting
 logo : assets/logo.png
 
-#slide-number
+#Slide Number Setting
 slide-number: true
 
-#footer
+#Footnote Setting
 footnote :  "© 2017 kakisoft"
 
 #Highlight Setting
@@ -22,7 +20,11 @@ highlight : mono-blue
 #Mouse Wheel Setting
 mousewheel : true
 
-#Transition Setting(convex, concave, default, fade, none, slide, zoom)
+#Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
 transition : fade
 
-vertical-center : false
+#Vertical Center Setting（falseで上詰め）
+#vertical-center : false
+
+#Auto Slide Setting(1000で1秒)
+#autoslide : 5000
