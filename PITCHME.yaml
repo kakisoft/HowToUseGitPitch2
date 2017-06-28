@@ -14,8 +14,8 @@ slide-number: true
 footnote :  "© 2017 kakisoft"
 
 #Highlight Setting
-highlight : monokai
-#highlight : mono-blue
+#highlight : monokai
+highlight : mono-blue
 
 #Mouse Wheel Setting
 mousewheel : true
