@@ -6,7 +6,6 @@
 　  
 　　　　垣花　暁
 ---
-<!-- .slide: data-autoslide="1000" -->
 このスライドの作成に、  
 「GitPitch」というサービスを使っています。
 ---
@@ -44,40 +43,40 @@ PITCHME.yaml
 <img src="img/06.png">  
 ※テーマ未設定時のみ有効
 ---
-次に、背景。
+背景。
 ---
 <img src="img/07.png">
 ---
 テーマとの併用は難しそうなので、  
 どちらかを選べばいいと思います。
 ---
-次に、画面遷移時のアクション
+画面遷移時のアクション
 ---
 ### transition : fade
 等で、遷移時のアクションを設定できます。  
-convex, concave, default, 
+convex, concave, default,  
 fade, none, slide, zoom
 が設定できるようです。
 ---
-次に、ロゴ。
+ロゴ。
 ---
 ### logo : assets/logo.png
 等で、ロゴを表示できます。  
 （左の画像です）
 ---
-次に、スライド番号
+スライド番号
 ---
 ### slide-number: true
 で、番号をつける事ができます。  
 （右下の番号です）
 ---
-次に、フットノート
+フットノート
 ---
 ### footnote : "© 2017 kakisoft"
 等で、フットノートが設定できます。  
 （左下の内容です）
 ---
-次に、コードハイライト
+コードハイライト
 ---
 
 ```
@@ -93,10 +92,22 @@ highlight : mono-blue
 ```
 ---
 また、
-## autoslide : 5000  
+### autoslide : 5000  
 と設定することで、
 5秒おきにスライドが自動で流れます。
-
+---
+```
+<!-- .slide: data-autoslide="1000" -->
+```
+と記述すれば、スライド単位にて
+遷移時間が設定可能です。
+---
+「５分きっかりで終わらせたい」  
+といった時に有効ですね。
+---
+他にも色々あるので
+---
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
-
+---
+おわり
