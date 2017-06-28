@@ -32,6 +32,7 @@ PITCHME.yaml
 ---?image=img/03.png
 ---?image=img/04.png
 ---?image=img/05.png
+---
 等のテーマがあります。
 ---
 左下のメニューより、  
