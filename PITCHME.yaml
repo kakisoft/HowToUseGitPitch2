@@ -14,5 +14,5 @@ slide-number: true
 #footer
 footnote :  "© 2017 kakisoft"
 
-#highlight : monokai
+highlight : monokai
 #highlight : mono-blue
