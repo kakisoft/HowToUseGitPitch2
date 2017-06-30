@@ -44,7 +44,7 @@ PITCHME.yaml
 ---?image=assets/bg.png
 ### background : assets/bg.png
 等で、背景画像が設定できます。
----
+---?image=assets/bg.png
 テーマとの併用は難しそうなので、  
 どちらかを選べばいいと思います。
 ---
@@ -74,7 +74,8 @@ fade, none, slide, zoom
 等で、フットノートが設定できます。  
 （左下の内容です）
 ---
-また、
+時間経過で、自動的に次のスライドに進める事も出来ます。
+---
 ### autoslide : 5000  
 と設定することで、  
 5秒おきにスライドが自動で流れます。
