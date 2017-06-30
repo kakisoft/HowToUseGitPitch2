@@ -82,7 +82,7 @@ fade, none, slide, zoom
 5秒おきにスライドが自動で流れます。
 ---
 ```　  
-<!-- .slide: data-autoslide="1000" -->
+<!-- .slide: data-autoslide="5000" -->
 ```　  
 　  
 と記述すれば、スライド単位での  
