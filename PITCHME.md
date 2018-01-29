@@ -27,10 +27,10 @@ PITCHME.yaml
 
 と指定しています。  
 　  
-他には ・・・
----?image=assets/ThemeBLACK.png
+他には ・・
 ---?image=assets/ThemeMOON.png
 ---?image=assets/ThemeBEIGE.png
+---?image=assets/ThemeBLACK.png
 ---?image=assets/ThemeSKY.png
 ---
 等のテーマがあります。
