@@ -104,4 +104,7 @@ fade, none, slide, zoom
 詳細は、公式サイトを参照して下さい。
 https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 ---
+このスライドの PITCHME.md は、     
+[こんな感じ](https://github.com/kakisoft/HowToUseGitPitch2/blob/master/PITCHME.md.txt)です。
+---
 おわり
