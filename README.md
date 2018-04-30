@@ -9,7 +9,7 @@ https://gitpitch.com/kakisoft/HowToUseGitPitch2
 　  
 　  
 　  
-使い方の基本としては、リポジトリに「PITCHME.md」というファイルを作成し、マークダウンで記述します。    
-設定ファイルは、「PITCHME.yaml」というファイルを作成し、yamlで記述します。    
+使い方の基本としては、リポジトリに「PITCHME.md」というファイルを作成し、マークダウンで記述します。    
+設定ファイルは、「PITCHME.yaml」というファイルを作成し、yamlで記述します。    
 cloneが面倒な人向けに、PITCHME.mdの中身を用意しときました。    
 https://github.com/kakisoft/HowToUseGitPitch2/blob/master/PITCHME.md.txt
