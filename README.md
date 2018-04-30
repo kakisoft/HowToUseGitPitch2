@@ -14,5 +14,5 @@ ForkしてPITCHME.md を編集すると、いい感じに作成できるかと�
 　  
 　  
 　  
-Forkが面倒な人向けに、PITCHME.mdの中身を用意しときました。    
+Forkが面倒な人向けに、PITCHME.md の中身を用意しときました。    
 https://github.com/kakisoft/HowToUseGitPitch2/blob/master/PITCHME.md.txt
