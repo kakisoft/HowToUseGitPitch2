@@ -38,7 +38,7 @@ PITCHME.yaml
 左下のメニューより、  
 一時的にテーマを変更する事も出来ます。  
 ![alt](assets/ThemeChange.png)  
-※テーマ未設定時のみ有効
+※テーマ未設定時のみ有効a
 ---
 背景。
 ---?image=assets/bg.png
